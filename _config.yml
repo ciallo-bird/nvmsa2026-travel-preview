@@ -23,7 +23,7 @@ directions-link: Introduction to Huanghai Hotel.pdf
 map-embed: https://maps.google.com/maps?hl=en&amp;q=黄海饭店&amp;t=&amp;z=14&amp;ie=UTF8&amp;iwloc=B&amp;output=embed
 organizer-email : organizer@email.com
 registration-page : http://registration.com
-upload-form: http://paperupload.com
+upload-form: https://easychair.org/conferences/?conf=nvmsa2026
 
 collections:
   - invited_speakers
